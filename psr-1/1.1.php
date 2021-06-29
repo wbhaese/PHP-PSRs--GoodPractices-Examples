@@ -1,0 +1,1 @@
+<?="This tag just 'echo' this string"?>
