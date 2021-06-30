@@ -1,0 +1,13 @@
+{
+    "name": "eti/test-monolog",
+    "description": "Class about PSR-3",
+    "authors": [
+        {
+            "name": "wbh",
+            "email": "wbhaese@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.2"
+    }
+}
