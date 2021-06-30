@@ -1,0 +1,17 @@
+{
+    "name": "eti/psr-4-class",
+    "description": "Class about PSR-4",
+    "authors": [
+        {
+            "name": "wbh",
+            "email": "wbhaese@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\":"app/",
+            "EIT\\":"src/eti"
+        }
+    }
+}
